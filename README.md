@@ -2,6 +2,8 @@
 
 Read deployed smart contract from Android Application using Web3j library.
 
+Read writed [article](https://yoorbit.medium.com/how-to-read-deployed-smart-contract-from-android-using-web3j-d56b23d616a3).
+
 ## Libraries 📚
 
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android
